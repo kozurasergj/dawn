@@ -2,6 +2,18 @@
   "sections": {
     "image_banner": {
       "type": "image-banner",
+      "blocks": {
+        "c82fcb79-9c51-4a62-88c5-ce03f1ce12ce": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "c82fcb79-9c51-4a62-88c5-ce03f1ce12ce"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/close-up-brunette-woman-with-cream-jar.jpg",
         "image_overlay_opacity": 40,
