@@ -6,13 +6,21 @@
         "c82fcb79-9c51-4a62-88c5-ce03f1ce12ce": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
+            "text": "Unveil Your Beauty: Shop the Finest Cosmetics Collection Today!",
+            "text_style": "subtitle"
+          }
+        },
+        "40bfcae0-90b2-4f74-af37-68f01fb838d8": {
+          "type": "heading",
+          "settings": {
+            "heading": "Your Beauty in Your Hands",
+            "heading_size": "medium"
           }
         }
       },
       "block_order": [
-        "c82fcb79-9c51-4a62-88c5-ce03f1ce12ce"
+        "c82fcb79-9c51-4a62-88c5-ce03f1ce12ce",
+        "40bfcae0-90b2-4f74-af37-68f01fb838d8"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/close-up-brunette-woman-with-cream-jar.jpg",
